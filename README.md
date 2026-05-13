@@ -38,7 +38,7 @@
 
 ## 🧠 About Me
 
-I'm **Jamarius Fortson**, an Agentic AI Engineer specializing in autonomous, multi-agent systems that operate end-to-end without human intervention.
+I'm **Nadir Sheikh**, an Agentic AI Engineer specializing in autonomous, multi-agent systems that operate end-to-end without human intervention.
 
 My work sits at the intersection of **LLM orchestration**, **production engineering**, and **enterprise automation** — delivering systems that don't just demonstrate AI capability, but deploy it reliably at scale.
 
