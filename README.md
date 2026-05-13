@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING ANIMATION HERO -->
-<a href="https://github.com/jamarius-fortson">
+<a href="https://github.com/nadir-sheikh09">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Agentic+AI+Engineer;Building+Autonomous+Systems+at+Scale;50%2B+Production+AI+Agents+Shipped;LangGraph+%7C+CrewAI+%7C+LangChain+%7C+MCP" alt="Typing SVG" />
 </a>
 
@@ -16,20 +16,20 @@
 
 <!-- CONTACT BADGES -->
 <p align="center">
-  <a href="mailto:jamariusfortson.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jamariusfortson.work%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" />
+  <a href="mailto:nadkhannan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nadkhannan%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" />
   </a>
   &nbsp;
-  <a href="https://github.com/jamarius-fortson">
+  <a href="https://github.com/nadir-sheikh09">
     <img src="https://img.shields.io/badge/GitHub-jamarius--fortson-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jamarius-fortson&color=00D9FF&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=nadir-sheikh09&color=00D9FF&style=flat-square&label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/jamarius-fortson?style=flat-square&color=00D9FF&label=Followers" />
+  <img src="https://img.shields.io/github/followers/nadir-sheikh09?style=flat-square&color=00D9FF&label=Followers" />
 </p>
 
 </div>
@@ -73,10 +73,10 @@ Every project in this portfolio addresses a real enterprise problem with a produ
 
 | Project | What It Does | Stack |
 |--------|-------------|-------|
-| **[Agentic-Workflow-Engine](https://github.com/jamarius-fortson/Agentic-Workflow-Engine)** | OS-level agent runtime — decomposes ANY goal into a DAG of parallelizable subtasks with fault recovery | `LangGraph` `Python` `DAG` |
-| **[Autonomous-AI-Company-Simulation](https://github.com/jamarius-fortson/Autonomous-AI-Company-Simulation)** | End-to-end autonomous software company: PM, Dev, QA, DevOps agents collaborating on a full SDLC | `CrewAI` `LangGraph` `Python` |
-| **[AgenticAI-MCP-Platform](https://github.com/jamarius-fortson/AgenticAI-MCP-Platform)** | Production bridge between AI demos and shipped products: auth, rate-limiting, circuit breakers, tracing | `MCP` `FastAPI` `Python` |
-| **[Zenith-AI](https://github.com/jamarius-fortson/Zenith-AI)** | Autonomous multi-agent intelligence platform: executive summaries, MEDDIC health metrics, workflow blueprints | `FastAPI` `Multi-Agent` `Python` |
+| **[Agentic-Workflow-Engine](https://github.com/nadir-sheikh09/Agentic-Workflow-Engine)** | OS-level agent runtime — decomposes ANY goal into a DAG of parallelizable subtasks with fault recovery | `LangGraph` `Python` `DAG` |
+| **[Autonomous-AI-Company-Simulation](https://github.com/nadir-sheikh09/Autonomous-AI-Company-Simulation)** | End-to-end autonomous software company: PM, Dev, QA, DevOps agents collaborating on a full SDLC | `CrewAI` `LangGraph` `Python` |
+| **[AgenticAI-MCP-Platform](https://github.com/nadir-sheikh09/AgenticAI-MCP-Platform)** | Production bridge between AI demos and shipped products: auth, rate-limiting, circuit breakers, tracing | `MCP` `FastAPI` `Python` |
+| **[Zenith-AI](https://github.com/nadir-sheikh09/Zenith-AI)** | Autonomous multi-agent intelligence platform: executive summaries, MEDDIC health metrics, workflow blueprints | `FastAPI` `Multi-Agent` `Python` |
 
 ---
 
@@ -84,9 +84,9 @@ Every project in this portfolio addresses a real enterprise problem with a produ
 
 | Project | What It Does | Stack |
 |--------|-------------|-------|
-| **[Aura-RAG](https://github.com/jamarius-fortson/Aura-RAG)** | Neural Knowledge Intelligence Engine for private doc retrieval — semantic search + high-fidelity reasoning | `LangChain` `DeepSeek` `Streamlit` |
-| **[Neuro-Query-AI](https://github.com/jamarius-fortson/Neuro-Query-AI)** | Production-ready RAG with semantic doc understanding, context-aware QA, and intelligent search | `Python` `LangChain` `FastAPI` |
-| **[Aether-AI-Agent](https://github.com/jamarius-fortson/Aether-AI-Agent)** | Autonomous data agent bridging natural language and complex relational databases | `Python` `SQL` `LangGraph` |
+| **[Aura-RAG](https://github.com/nadir-sheikh09/Aura-RAG)** | Neural Knowledge Intelligence Engine for private doc retrieval — semantic search + high-fidelity reasoning | `LangChain` `DeepSeek` `Streamlit` |
+| **[Neuro-Query-AI](https://github.com/nadir-sheikh09/Neuro-Query-AI)** | Production-ready RAG with semantic doc understanding, context-aware QA, and intelligent search | `Python` `LangChain` `FastAPI` |
+| **[Aether-AI-Agent](https://github.com/nadir-sheikh09/Aether-AI-Agent)** | Autonomous data agent bridging natural language and complex relational databases | `Python` `SQL` `LangGraph` |
 
 ---
 
@@ -94,13 +94,13 @@ Every project in this portfolio addresses a real enterprise problem with a produ
 
 | Project | Vertical | What It Automates |
 |--------|----------|--------------------|
-| **[Nova-AI-CRM](https://github.com/jamarius-fortson/Nova-AI-CRM)** | Sales / CRM | Full B2B funnel: raw signal → personalized outreach via LangGraph + CrewAI |
-| **[ClaimOS](https://github.com/jamarius-fortson/ClaimOS)** | Insurance | 4-day manual claims workflow → 4-minute autonomous decision pipeline |
-| **[Axiom-AI](https://github.com/jamarius-fortson/Axiom-AI)** | Legal | Full legal lifecycle: drafting, analysis, auditing — with MCP support |
-| **[AegisCore-DevOps](https://github.com/jamarius-fortson/AegisCore-DevOps)** | DevOps / SRE | CI/CD pipelines, PR reviews, architecture drift detection — autonomous |
-| **[Nexus-Quant-Multi-AIAgent](https://github.com/jamarius-fortson/Nexus-Quant-Multi-AIAgent)** | Finance | 50+ behavioral AI agents simulating emergent financial market dynamics |
-| **[CogniLearn-AI](https://github.com/jamarius-fortson/CogniLearn-AI)** | EdTech | Socratic-style multi-agent instruction with live curriculum negotiation |
-| **[reachX-agent](https://github.com/jamarius-fortson/reachX-agent)** | Sales Intelligence | Cold leads → 20% response rates via agent-driven research + personalization |
+| **[Nova-AI-CRM](https://github.com/nadir-sheikh09/Nova-AI-CRM)** | Sales / CRM | Full B2B funnel: raw signal → personalized outreach via LangGraph + CrewAI |
+| **[ClaimOS](https://github.com/nadir-sheikh09/ClaimOS)** | Insurance | 4-day manual claims workflow → 4-minute autonomous decision pipeline |
+| **[Axiom-AI](https://github.com/nadir-sheikh09/Axiom-AI)** | Legal | Full legal lifecycle: drafting, analysis, auditing — with MCP support |
+| **[AegisCore-DevOps](https://github.com/nadir-sheikh09/AegisCore-DevOps)** | DevOps / SRE | CI/CD pipelines, PR reviews, architecture drift detection — autonomous |
+| **[Nexus-Quant-Multi-AIAgent](https://github.com/nadir-sheikh09/Nexus-Quant-Multi-AIAgent)** | Finance | 50+ behavioral AI agents simulating emergent financial market dynamics |
+| **[CogniLearn-AI](https://github.com/nadir-sheikh09/CogniLearn-AI)** | EdTech | Socratic-style multi-agent instruction with live curriculum negotiation |
+| **[reachX-agent](https://github.com/nadir-sheikh09/reachX-agent)** | Sales Intelligence | Cold leads → 20% response rates via agent-driven research + personalization |
 
 ---
 
@@ -108,10 +108,10 @@ Every project in this portfolio addresses a real enterprise problem with a produ
 
 | Project | What It Provides |
 |--------|-----------------|
-| **[Nexus-Agent-Framework](https://github.com/jamarius-fortson/Nexus-Agent-Framework)** | Modular Python foundation for production AI agents — extensible, performant |
-| **[AI-Web-Navigator](https://github.com/jamarius-fortson/AI-Web-Navigator)** | Enterprise-grade framework for AI agents to autonomously control web browsers |
-| **[Autonomous-Web-Orchestration](https://github.com/jamarius-fortson/Autonomous-Web-Orchestration)** | Production multi-agent orchestration bridging LLMs and complex web environments |
-| **[Aether-Ops](https://github.com/jamarius-fortson/Aether-Ops)** | Next-gen AI Operations platform: continuous perception-action loop for ops intelligence |
+| **[Nexus-Agent-Framework](https://github.com/nadir-sheikh09/Nexus-Agent-Framework)** | Modular Python foundation for production AI agents — extensible, performant |
+| **[AI-Web-Navigator](https://github.com/nadir-sheikh09/AI-Web-Navigator)** | Enterprise-grade framework for AI agents to autonomously control web browsers |
+| **[Autonomous-Web-Orchestration](https://github.com/nadir-sheikh09/Autonomous-Web-Orchestration)** | Production multi-agent orchestration bridging LLMs and complex web environments |
+| **[Aether-Ops](https://github.com/nadir-sheikh09/Aether-Ops)** | Next-gen AI Operations platform: continuous perception-action loop for ops intelligence |
 
 ---
 
@@ -156,15 +156,15 @@ Every project in this portfolio addresses a real enterprise problem with a produ
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamarius-fortson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadir-sheikh09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamarius-fortson&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadir-sheikh09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jamarius-fortson&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadir-sheikh09&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
 </div>
 
@@ -226,11 +226,11 @@ Every project in this portfolio addresses a real enterprise problem with a produ
 
 <br/>
 
-<a href="mailto:jamariusfortson.work@gmail.com">
+<a href="mailto:nadkhannan@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/jamarius-fortson?tab=repositories">
+<a href="https://github.com/nadir-sheikh09?tab=repositories">
   <img src="https://img.shields.io/badge/Browse_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
