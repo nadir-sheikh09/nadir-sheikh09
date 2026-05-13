@@ -21,7 +21,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/nadir-sheikh09">
-    <img src="https://img.shields.io/badge/GitHub-nadir--sheikh-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/GitHub-nadir--sheikh09-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
 
